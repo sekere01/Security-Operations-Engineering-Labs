@@ -1,0 +1,37 @@
+[+] User-Agent in use: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+[+] Searching everywhere
+[+] Searching in Linkedin
+[+] Searching in Yahoo + Linkedin: 101 results
+[+] Searching in Bing + Linkedin: 50 results
+[+] Searching in Bing + Linkedin: 100 results
+[+] Searching in Google + Linkedin: 100 results
+[+] Searching in Baidu + Linkedin: 10 results
+[+] Searching in Baidu + Linkedin: 20 results
+[+] Searching in Baidu + Linkedin: 30 results
+[+] Searching in Baidu + Linkedin: 40 results
+[+] Searching in Baidu + Linkedin: 50 results
+[+] Searching in Baidu + Linkedin: 60 results
+[+] Searching in Baidu + Linkedin: 70 results
+[+] Searching in Baidu + Linkedin: 80 results
+[+] Searching in Baidu + Linkedin: 90 results
+[+] Searching in Baidu + Linkedin: 100 results
+[+] Searching in Exalead + Linkedin: 50 results
+[+] Searching in Exalead + Linkedin: 100 results
+[+] Searching in Exalead: 50 results
+[+] Searching in Exalead: 100 results
+[+] Searching in Youtube
+[+] Searching in Yahoo + Youtube: 101 results
+[+] Searching in Bing + Youtube: 50 results
+[+] Searching in Bing + Youtube: 100 results
+[+] Searching in Google + Youtube: 100 results
+[+] Searching in Baidu + Youtube: 10 results
+[+] Searching in Baidu + Youtube: 20 results
+[+] Searching in Baidu + Youtube: 30 results
+[+] Searching in Baidu + Youtube: 40 results
+[+] Searching in Baidu + Youtube: 50 results
+[+] Searching in Baidu + Youtube: 60 results
+[+] Searching in Baidu + Youtube: 70 results
+[+] Searching in Baidu + Youtube: 80 results
+[+] Searching in Baidu + Youtube: 90 results
+[+] Searching in Baidu + Youtube: 100 results
+HTTPSConnectionPool(host='www.3ds.com', port=443): Max retries exceeded with url: /products/netvibes (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4eb564f4d0>: Failed to resolve 'www.3ds.com' ([Errno -3] Temporary failure in name resolution)"))

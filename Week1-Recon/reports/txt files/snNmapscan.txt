@@ -1,0 +1,5 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-12 12:02 EST
+Nmap scan report for altschoolafrica.com (104.21.37.155)
+Host is up (0.21s latency).
+Other addresses for altschoolafrica.com (not scanned): 2606:4700:3033::ac43:d251 2606:4700:3033::6815:259b 172.67.210.81
+Nmap done: 1 IP address (1 host up) scanned in 0.68 seconds

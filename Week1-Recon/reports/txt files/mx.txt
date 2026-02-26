@@ -1,0 +1,24 @@
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> altschoolafrica.com MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36722
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 4096
+;; QUESTION SECTION:
+;altschoolafrica.com.		IN	MX
+
+;; ANSWER SECTION:
+altschoolafrica.com.	5	IN	MX	10 alt3.aspmx.l.google.com.
+altschoolafrica.com.	5	IN	MX	5 alt2.aspmx.l.google.com.
+altschoolafrica.com.	5	IN	MX	10 alt4.aspmx.l.google.com.
+altschoolafrica.com.	5	IN	MX	1 aspmx.l.google.com.
+altschoolafrica.com.	5	IN	MX	5 alt1.aspmx.l.google.com.
+
+;; Query time: 143 msec
+;; SERVER: 192.168.136.2#53(192.168.136.2) (UDP)
+;; WHEN: Fri Dec 12 13:37:08 EST 2025
+;; MSG SIZE  rcvd: 163
+

@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> altschoolafrica.com TXT
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11716
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 4096
+;; QUESTION SECTION:
+;altschoolafrica.com.		IN	TXT
+
+;; Query time: 1289 msec
+;; SERVER: 192.168.136.2#53(192.168.136.2) (UDP)
+;; WHEN: Fri Dec 12 13:37:42 EST 2025
+;; MSG SIZE  rcvd: 48
+
