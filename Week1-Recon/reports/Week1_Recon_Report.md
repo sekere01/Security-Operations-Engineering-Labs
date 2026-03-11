@@ -1,8 +1,7 @@
 # Reconnaissance & Footprinting Report
 ## Security Assessment for AltSchoolPay
 
-**Student:** Oluwafisayomi Adekoya  
-**Student ID:** ALT/SOE/025/0358  
+
 **Date:** 12 December 2025  
 **Lab Domain:** altschoolafrica.com  
 **Environment:** Kali Linux VM  
@@ -335,4 +334,4 @@ Overall, this exercise strengthened the ability to combine reconnaissance data w
 
 ---
 
-*Report prepared by Oluwafisayomi Adekoya — ALT/SOE/025/0358 | AltSchool Africa*
+
