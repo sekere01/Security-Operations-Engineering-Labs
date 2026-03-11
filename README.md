@@ -5,9 +5,6 @@
 ![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20Amass%20%7C%20Shodan%20%7C%20theHarvester-blue)
 ![Environment](https://img.shields.io/badge/Environment-Kali%20Linux-red)
 
-**Student:** Oluwafisayomi Adekoya  
-**ID:** ALT/SOE/025/0358  
-**Program:** AltSchool Africa — School of Engineering (Cybersecurity Track)
 
 ---
 
